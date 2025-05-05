@@ -1,0 +1,234 @@
+D:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.csproj.AssemblyReference.cache
+D:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.csproj.CoreCompileInputs.cache
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\TienditaMVC.dll.config
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\TienditaMVC.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\TienditaMVC.pdb
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csc.exe
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csc.exe.config
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csc.rsp
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csi.exe
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csi.exe.config
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csi.rsp
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.AppContext.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Console.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.Compression.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Net.Http.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Net.Sockets.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.ValueTuple.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.XPath.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\vbc.exe
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\vbc.exe.config
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\vbc.rsp
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\VBCSCompiler.exe
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Helpers.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Mvc.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Razor.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Deployment.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Razor.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Razor.xml
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.xml
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Deployment.xml
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Razor.xml
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Helpers.xml
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Mvc.xml
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Razor.resources.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Webpages.resources.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Helpers.resources.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Mvc.resources.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\Tiendita.56FFB6E0.Up2Date
+D:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.dll
+D:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.pdb
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\TienditaMVC.dll.config
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\TienditaMVC.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\TienditaMVC.pdb
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csc.exe
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csc.exe.config
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csc.rsp
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csi.exe
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csi.exe.config
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\csi.rsp
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.AppContext.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Console.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.Compression.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Net.Http.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Net.Sockets.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.ValueTuple.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.XPath.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\vbc.exe
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\vbc.exe.config
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\vbc.rsp
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\VBCSCompiler.exe
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Helpers.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Mvc.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Razor.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Deployment.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Razor.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Razor.xml
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.xml
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Deployment.xml
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Razor.xml
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Helpers.xml
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\System.Web.Mvc.xml
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Razor.resources.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Webpages.resources.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Helpers.resources.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\bin\es\System.Web.Mvc.resources.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.csproj.AssemblyReference.cache
+E:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.csproj.CoreCompileInputs.cache
+E:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\Tiendita.56FFB6E0.Up2Date
+E:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.dll
+E:\CLASES 2025\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.pdb
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\TienditaMVC.dll.config
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\TienditaMVC.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\TienditaMVC.pdb
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\csc.rsp
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\csi.exe
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\csi.rsp
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Razor.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Razor.xml
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.xml
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\obj\Debug\Tiendita.56FFB6E0.Up2Date
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.dll
+C:\Users\Usuario\Downloads\TienditaMVC\TienditaMVC\obj\Debug\TienditaMVC.pdb

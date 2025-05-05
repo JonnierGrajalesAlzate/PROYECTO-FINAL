@@ -1,0 +1,16 @@
+@{
+    ViewBag.Title = "Gestión de Empleados";
+}
+
+<h2>Gestión de Empleados</h2>
+
+<nav>
+    <ul>
+        <li>@Html.ActionLink("Ver Empleados", "Index", "Empleados")</li>
+        <li>@Html.ActionLink("Agregar Nuevo Empleado", "Create", "Empleados")</li>
+    </ul>
+</nav>
+
+<p>Administración de los empleados del hotel.</p>
+
+<!-- Aquí iría la lista de empleados, formularios para agregar o editar, etc. -->

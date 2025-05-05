@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Página Principal";
+}
+
+<h2>Bienvenido a la Gestión Hotelera</h2>
+
+<nav>
+    <ul>
+        <li>@Html.ActionLink("Página Principal", "Index", "Home")</li>
+        <li>@Html.ActionLink("Gestión de Huéspedes", "Index", "Huespedes")</li>
+        <li>@Html.ActionLink("Gestión de Empleados", "Index", "Empleados")</li>
+        <li>@Html.ActionLink("Gestión de Habitaciones", "Index", "Habitaciones")</li>
+        <li>@Html.ActionLink("Gestión de Reservas", "Index", "Reservas")</li>
+        <li>@Html.ActionLink("Registro de Ingreso", "Index", "CheckIn")</li>
+        <li>@Html.ActionLink("Registro de Salida", "Index", "CheckOut")</li>
+        <li>@Html.ActionLink("Reportes", "Index", "Reportes")</li>
+    </ul>
+</nav>

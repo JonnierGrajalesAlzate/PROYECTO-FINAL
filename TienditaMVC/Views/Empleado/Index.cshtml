@@ -1,0 +1,44 @@
+@model IEnumerable<TienditaMVC.Models.Empleado>
+
+@{
+    ViewBag.Title = "Empleados";
+}
+
+<nav>
+    <ul>
+        <li>@Html.ActionLink("Página Principal", "Index", "Home")</li> 
+    </ul>
+</nav>
+<h2>Empleados</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo Empleado", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Codigo)</th>
+        <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+        <th>@Html.DisplayNameFor(model => model.Apellido)</th>
+        <th>@Html.DisplayNameFor(model => model.Edad)</th>
+        <th>@Html.DisplayNameFor(model => model.Telefono)</th>
+        <th>@Html.DisplayNameFor(model => model.FechaNacimiento)</th>
+        <th>Acciones</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Codigo</td>
+            <td>@item.Nombre</td>
+            <td>@item.Apellido</td>
+            <td>@item.Edad</td>
+            <td>@item.Telefono</td>
+            <td>@item.FechaNacimiento</td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>

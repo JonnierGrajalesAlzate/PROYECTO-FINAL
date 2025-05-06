@@ -1,0 +1,17 @@
+﻿@model TienditaMVC.Models.Empleado
+
+@{
+    ViewBag.Title = "Eliminar Empleado";
+}
+
+<h2>Eliminar Empleado</h2>
+
+<h3>¿Estás seguro de que deseas eliminar a @Model.Nombre @Model.Apellido?</h3>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(model => model.Id)
+    <button type="submit">Eliminar</button>
+    @Html.ActionLink("Cancelar", "Index")
+}

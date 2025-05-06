@@ -1,82 +1,186 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\Usuario\\Downloads\\TienditaMVC\\tienditamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|c:\\users\\home\\desktop\\proyecto-final\\tienditamvc\\views\\huesped\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\huesped\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\huesped\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\huesped\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\huespedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\controllers\\huespedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\models\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\models\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\models\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\models\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\huesped\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\huesped\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\huesped\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\huesped\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\empleado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\empleado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\empleado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\empleado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\controllers\\huespedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\huespedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\Usuario\\Downloads\\TienditaMVC\\tienditamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\views\\checkin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\checkin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\views\\habitaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\habitaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|c:\\users\\usuario\\downloads\\tienditamvc\\tienditamvc\\views\\huespedes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\huespedes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\Usuario\\Downloads\\TienditaMVC\\tienditamvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\Usuario\\Downloads\\TienditaMVC\\tienditamvc\\models\\gestionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\models\\gestionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\habitacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\GestionHotelera.csproj|solutionrelative:tienditamvc\\views\\habitacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\Usuario\\Downloads\\TienditaMVC\\tienditamvc\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\checkin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\checkin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\tienditamvc\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6D6927-3E9A-4BA8-BBA6-264DAE27379A}|TienditaMVC\\TienditaMVC.csproj|solutionrelative:tienditamvc\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HabitacionesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TienditaMVC\\Controllers\\HabitacionesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\EmpleadosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TienditaMVC\\Controllers\\EmpleadosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HuespedesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TienditaMVC\\Controllers\\HuespedesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Habitaciones\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TienditaMVC\\Views\\Habitaciones\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleados\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TienditaMVC\\Views\\Empleados\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huespedes\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TienditaMVC\\Views\\Huespedes\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\GestionProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TienditaMVC\\Models\\GestionProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TienditaMVC\\Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,223 +190,541 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReportesController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\ReportesController.cs",
-              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\ReportesController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\ReportesController.cs",
-              "RelativeToolTip": "TienditaMVC\\Controllers\\ReportesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:56:32.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CheckOutController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\CheckOutController.cs",
-              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\CheckOutController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\CheckOutController.cs",
-              "RelativeToolTip": "TienditaMVC\\Controllers\\CheckOutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:56:13.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CheckInController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\CheckInController.cs",
-              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\CheckInController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\CheckInController.cs",
-              "RelativeToolTip": "TienditaMVC\\Controllers\\CheckInController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:55:56.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ReservasController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\ReservasController.cs",
-              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\ReservasController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\ReservasController.cs",
-              "RelativeToolTip": "TienditaMVC\\Controllers\\ReservasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:55:36.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HabitacionesController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\HabitacionesController.cs",
-              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\HabitacionesController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\HabitacionesController.cs",
-              "RelativeToolTip": "TienditaMVC\\Controllers\\HabitacionesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:55:13.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmpleadosController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\EmpleadosController.cs",
-              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\EmpleadosController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\EmpleadosController.cs",
-              "RelativeToolTip": "TienditaMVC\\Controllers\\EmpleadosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:54:50.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TienditaMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "TienditaMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-21T18:02:46.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HuespedesController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\HuespedesController.cs",
-              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\HuespedesController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\HuespedesController.cs",
-              "RelativeToolTip": "TienditaMVC\\Controllers\\HuespedesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Huesped.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Huesped.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Models\\Huesped.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Huesped.cs",
+              "RelativeToolTip": "TienditaMVC\\Models\\Huesped.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:53:36.241Z",
+              "WhenOpened": "2025-05-06T20:50:32.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Reportes\\Index.cshtml",
-              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Reportes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Reportes\\Index.cshtml",
-              "RelativeToolTip": "TienditaMVC\\Views\\Reportes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:49:40.074Z",
+              "DocumentIndex": 2,
+              "Title": "HuespedController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HuespedController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\HuespedController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HuespedController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\HuespedController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:58:33.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\CheckOut\\Index.cshtml",
-              "RelativeDocumentMoniker": "TienditaMVC\\Views\\CheckOut\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\CheckOut\\Index.cshtml",
-              "RelativeToolTip": "TienditaMVC\\Views\\CheckOut\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huesped\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Huesped\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huesped\\Edit.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Huesped\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:49:06.906Z",
+              "WhenOpened": "2025-05-06T21:33:11.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\CheckIn\\Index.cshtml",
-              "RelativeDocumentMoniker": "TienditaMVC\\Views\\CheckIn\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\CheckIn\\Index.cshtml",
-              "RelativeToolTip": "TienditaMVC\\Views\\CheckIn\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huesped\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Huesped\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huesped\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Huesped\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:48:28.642Z",
+              "WhenOpened": "2025-05-06T21:32:26.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Reservas\\Index.cshtml",
-              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Reservas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Reservas\\Index.cshtml",
-              "RelativeToolTip": "TienditaMVC\\Views\\Reservas\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:47:51.593Z",
+              "DocumentIndex": 6,
+              "Title": "HotelDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\HotelDBContext.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Models\\HotelDBContext.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\HotelDBContext.cs",
+              "RelativeToolTip": "TienditaMVC\\Models\\HotelDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:33.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Habitaciones\\Index.cshtml",
-              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Habitaciones\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Habitaciones\\Index.cshtml",
-              "RelativeToolTip": "TienditaMVC\\Views\\Habitaciones\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:47:20.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Empleados\\Index.cshtml",
-              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Empleados\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Empleados\\Index.cshtml",
-              "RelativeToolTip": "TienditaMVC\\Views\\Empleados\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:46:28.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Huespedes\\Index.cshtml",
-              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Huespedes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Views\\Huespedes\\Index.cshtml",
-              "RelativeToolTip": "TienditaMVC\\Views\\Huespedes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:45:52.195Z",
+              "DocumentIndex": 7,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\web.config",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\web.config",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\web.config",
+              "RelativeToolTip": "TienditaMVC\\Views\\web.config",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T20:42:14.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TienditaMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:54:58.03Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Web.config",
+              "RelativeDocumentMoniker": "TienditaMVC\\Web.config",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Web.config",
+              "RelativeToolTip": "TienditaMVC\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T20:40:33.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:39.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huesped\\Create.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Huesped\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huesped\\Create.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Huesped\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T21:32:55.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T20:41:39.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huesped\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Huesped\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huesped\\Delete.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Huesped\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T21:33:35.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleado\\Create.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Empleado\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleado\\Create.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Empleado\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T20:46:07.532Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:43.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleado\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Empleado\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleado\\Edit.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Empleado\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T20:46:03.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleado\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Empleado\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleado\\Delete.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Empleado\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T20:41:36.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:55:36.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:44.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:56:32.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:42.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:54:58.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HabitacionController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HabitacionController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\HabitacionController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HabitacionController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\HabitacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:40.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CheckOutController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\CheckOutController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\CheckOutController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\CheckOutController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\CheckOutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:38.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CheckInController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\CheckInController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\CheckInController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\CheckInController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\CheckInController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:37.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:36.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CheckOutController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\CheckOutController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\CheckOutController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\CheckOutController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\CheckOutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:56:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CheckInController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\CheckInController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\CheckInController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\CheckInController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\CheckInController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:55:56.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Habitacion.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Models\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Habitacion.cs",
+              "RelativeToolTip": "TienditaMVC\\Models\\Habitacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:31.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Articulo.cs",
+              "RelativeToolTip": "TienditaMVC\\Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:29.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Empleado.cs",
+              "RelativeToolTip": "TienditaMVC\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:28.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Global.asax.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Global.asax.cs",
+              "RelativeToolTip": "TienditaMVC\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:45:11.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Web.config",
+              "RelativeDocumentMoniker": "TienditaMVC\\Web.config",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Web.config",
+              "RelativeToolTip": "TienditaMVC\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-21T17:13:51.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Habitacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Habitacion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Habitacion\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Habitacion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T20:42:55.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HabitacionesController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\HabitacionesController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HabitacionesController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\HabitacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:55:13.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:54:50.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HuespedesController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HuespedesController.cs",
+              "RelativeDocumentMoniker": "TienditaMVC\\Controllers\\HuespedesController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Controllers\\HuespedesController.cs",
+              "RelativeToolTip": "TienditaMVC\\Controllers\\HuespedesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:53:36.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Reportes\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Reportes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Reportes\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Reportes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T17:49:40.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\CheckOut\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\CheckOut\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\CheckOut\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\CheckOut\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T17:49:06.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\CheckIn\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\CheckIn\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\CheckIn\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\CheckIn\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T17:48:28.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Reservas\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Reservas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Reservas\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Reservas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T17:47:51.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Habitaciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Habitaciones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Habitaciones\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Habitaciones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T17:47:20.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleados\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Empleados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Empleados\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Empleados\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T17:46:28.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huespedes\\Index.cshtml",
+              "RelativeDocumentMoniker": "TienditaMVC\\Views\\Huespedes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Views\\Huespedes\\Index.cshtml",
+              "RelativeToolTip": "TienditaMVC\\Views\\Huespedes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T17:45:52.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "GestionProducto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Models\\GestionProducto.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\GestionProducto.cs",
               "RelativeDocumentMoniker": "TienditaMVC\\Models\\GestionProducto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Models\\GestionProducto.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\GestionProducto.cs",
               "RelativeToolTip": "TienditaMVC\\Models\\GestionProducto.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAQwFEAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -310,28 +732,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 44,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Models\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "TienditaMVC\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\PROYECTO-FINAL\\TienditaMVC\\Models\\Producto.cs",
               "RelativeToolTip": "TienditaMVC\\Models\\Producto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T17:19:13.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Web.config",
-              "RelativeDocumentMoniker": "TienditaMVC\\Web.config",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\TienditaMVC\\TienditaMVC\\Web.config",
-              "RelativeToolTip": "TienditaMVC\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-21T17:13:51.546Z",
-              "EditorCaption": ""
             }
           ]
         }

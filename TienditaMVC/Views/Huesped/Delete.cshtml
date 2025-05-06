@@ -1,0 +1,26 @@
+﻿@model TienditaMVC.Models.Huesped
+
+@{
+    ViewBag.Title = "Eliminar Huésped";
+}
+
+<h2>Eliminar Huésped</h2>
+
+<h3>¿Está seguro que desea eliminar este huésped?</h3>
+<div>
+    <dl class="dl-horizontal">
+        <dt>Nombre</dt>
+        <dd>@Model.Nombre</dd>
+        <dt>Edad</dt>
+        <dd>@Model.Edad</dd>
+        <dt>Teléfono</dt>
+        <dd>@Model.Telefono</dd>
+    </dl>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <input type="submit" value="Eliminar" class="btn btn-danger" />
+    @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-default" })
+}

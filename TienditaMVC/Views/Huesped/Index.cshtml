@@ -1,0 +1,48 @@
+@model IEnumerable<TienditaMVC.Models.Huesped>
+
+@{
+    ViewBag.Title = "Huéspedes";
+}
+<nav>
+    <ul>
+        <li>@Html.ActionLink("Página Principal", "Index", "Home")</li>
+    </ul>
+</nav>
+<h2>Lista de Huéspedes</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>Nombre</th>
+        <th>Edad</th>
+        <th>Dirección</th>
+        <th>Teléfono</th>
+        <th>Género</th>
+        <th>Ciudad Domicilio</th>
+        <th>Motivo Hospedaje</th>
+        <th>Acompañante</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Nombre</td>
+            <td>@item.Edad</td>
+            <td>@item.Direccion</td>
+            <td>@item.Telefono</td>
+            <td>@item.Genero
+            <td>
+            <td>@item.CiudadDomicilio</td>
+            <td>@item.MotivoHospedaje</td>
+            <td>@(item.Acompanante ? "Sí" : "No")</td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.Id }) | |
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>

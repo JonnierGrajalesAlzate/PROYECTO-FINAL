@@ -13,10 +13,11 @@ namespace TienditaMVC
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+            // Ruta predeterminada que apunta al controlador Empleado
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Empleado", action = "Index", id = UrlParameter.Optional }
             );
         }
     }
